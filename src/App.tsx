@@ -1,6 +1,6 @@
 // src/App.tsx
 import { useState, useEffect } from 'react'
-import { supabase } from './lib/supabaseClient'
+import { supabase } from './lib/supabaseClient.tsx'
 import './App.css'
 
 function App() {
